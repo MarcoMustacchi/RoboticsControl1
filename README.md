@@ -1,4 +1,4 @@
-# Software needed
+# Software requirements
 ### HW1
 * MATLAB
 * Simulink
