@@ -2,7 +2,7 @@
   <img src="https://github.com/MarcoMustacchi/MarcoMustacchi.github.io/blob/main/assets/img/icons/UniPD_logo.svg" width="150">
 </p>
 
-<h1 align="center">Robotics I - Homeworks Assignments <br> UniPd</h1>
+<h1 align="center">Robotics and Control 1 - HW Assignments <br> UniPd</h1>
 
 <a href="https://github.com/MarcoMustacchi/Robotics1HW/raw/master/HW1/Marco_Mustacchi_Robotics_I_HW1.pdf">📄HW1-Paper</a>
 <br>
